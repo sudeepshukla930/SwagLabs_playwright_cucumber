@@ -1,0 +1,652 @@
+2024-03-14 12:52:50:5250 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:52:51:5251 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 12:52:51:5251 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:52:51:5251 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:52:51:5251 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:52:51:5251 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 12:52:53:5253 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 12:52:53:5253 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 12:52:53:5253 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 12:52:53:5253 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 12:52:53:5253 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 12:52:53:5253 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 12:52:53:5253 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 12:52:53:5253 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 12:52:53:5253 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 12:52:53:5253 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 12:52:53:5253 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 12:52:55:5255 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:52:55:5255 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 12:52:55:5255 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:52:55:5255 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:52:55:5255 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:52:55:5255 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 12:52:56:5256 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 12:52:57:5257 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:52:58:5258 [90minfo[39m: [90mUser enters invalid username and password[39m
+2024-03-14 12:52:58:5258 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:52:58:5258 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:52:58:5258 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:52:58:5258 [90minfo[39m: [90mShould show Epic sad face: Sorry, this user has been locked out[39m
+2024-03-14 12:52:58:5258 [90minfo[39m: [90mPASSED : error message displaying ....[39m
+2024-03-14 12:52:59:5259 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:52:59:5259 [90minfo[39m: [90mUser enters problem username and password[39m
+2024-03-14 12:52:59:5259 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:52:59:5259 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:52:59:5259 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:52:59:5259 [90minfo[39m: [90mThe image should not shown up[39m
+2024-03-14 12:52:59:5259 [90minfo[39m: [90mPASSED : image is not showing ....[39m
+2024-03-14 12:57:04:574 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:57:05:575 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 12:57:05:575 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:57:05:575 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:57:05:575 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:57:05:575 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 12:57:06:576 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 12:57:06:576 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 12:57:06:576 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 12:57:06:576 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 12:57:06:576 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 12:57:06:576 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 12:57:06:576 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 12:57:06:576 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 12:57:06:576 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 12:57:06:576 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 12:57:06:576 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 12:57:07:577 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:57:08:578 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 12:57:08:578 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:57:08:578 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:57:08:578 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:57:08:578 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 12:57:10:5710 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 12:57:11:5711 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:57:12:5712 [90minfo[39m: [90mUser enters invalid username and password[39m
+2024-03-14 12:57:12:5712 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:57:12:5712 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:57:12:5712 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:57:12:5712 [90minfo[39m: [90mShould show Epic sad face: Sorry, this user has been locked out[39m
+2024-03-14 12:57:12:5712 [90minfo[39m: [90mPASSED : error message displaying ....[39m
+2024-03-14 12:57:13:5713 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:57:14:5714 [90minfo[39m: [90mUser enters problem username and password[39m
+2024-03-14 12:57:14:5714 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:57:14:5714 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:57:14:5714 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:57:14:5714 [90minfo[39m: [90mThe image should not shown up[39m
+2024-03-14 12:57:14:5714 [90minfo[39m: [90mPASSED : image is not showing ....[39m
+2024-03-14 12:57:29:5729 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:57:30:5730 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 12:57:30:5730 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:57:30:5730 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:57:30:5730 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:57:30:5730 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 12:57:31:5731 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 12:57:31:5731 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 12:57:31:5731 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 12:57:31:5731 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 12:57:31:5731 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 12:57:31:5731 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 12:57:31:5731 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 12:57:31:5731 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 12:57:31:5731 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 12:57:31:5731 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 12:57:31:5731 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 12:57:33:5733 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:57:33:5733 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 12:57:33:5733 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:57:33:5733 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:57:33:5733 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:57:33:5733 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 12:57:34:5734 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 12:57:35:5735 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:57:36:5736 [90minfo[39m: [90mUser enters invalid username and password[39m
+2024-03-14 12:57:36:5736 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:57:36:5736 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:57:36:5736 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:57:36:5736 [90minfo[39m: [90mShould show Epic sad face: Sorry, this user has been locked out[39m
+2024-03-14 12:57:36:5736 [90minfo[39m: [90mPASSED : error message displaying ....[39m
+2024-03-14 12:57:37:5737 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:57:38:5738 [90minfo[39m: [90mUser enters problem username and password[39m
+2024-03-14 12:57:38:5738 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:57:38:5738 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:57:38:5738 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:57:38:5738 [90minfo[39m: [90mThe image should not shown up[39m
+2024-03-14 12:57:38:5738 [90minfo[39m: [90mPASSED : image is not showing ....[39m
+2024-03-14 12:58:54:5854 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:58:54:5854 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 12:58:54:5854 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:58:54:5854 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:58:54:5854 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:58:54:5854 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 12:58:55:5855 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 12:58:55:5855 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 12:58:56:5856 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 12:58:56:5856 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 12:58:56:5856 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 12:58:56:5856 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 12:58:56:5856 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 12:58:56:5856 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 12:58:56:5856 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 12:58:56:5856 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 12:58:56:5856 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 12:58:57:5857 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:58:57:5857 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 12:58:57:5857 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:58:57:5857 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:58:57:5857 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:58:57:5857 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 12:58:59:5859 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 12:59:00:590 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:59:00:590 [90minfo[39m: [90mUser enters invalid username and password[39m
+2024-03-14 12:59:00:590 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:59:00:590 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:59:00:590 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:59:00:590 [90minfo[39m: [90mShould show Epic sad face: Sorry, this user has been locked out[39m
+2024-03-14 12:59:00:590 [90minfo[39m: [90mPASSED : error message displaying ....[39m
+2024-03-14 12:59:01:591 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 12:59:02:592 [90minfo[39m: [90mUser enters problem username and password[39m
+2024-03-14 12:59:02:592 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 12:59:02:592 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 12:59:02:592 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 12:59:02:592 [90minfo[39m: [90mThe image should not shown up[39m
+2024-03-14 12:59:02:592 [90minfo[39m: [90mPASSED : image is not showing ....[39m
+2024-03-14 15:10:29:1029 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:10:30:1030 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 15:10:30:1030 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:10:30:1030 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:10:31:1031 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:10:31:1031 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 15:10:32:1032 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 15:10:32:1032 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 15:10:32:1032 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 15:10:32:1032 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 15:10:32:1032 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 15:10:32:1032 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 15:10:32:1032 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 15:10:32:1032 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 15:10:32:1032 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 15:10:32:1032 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 15:10:32:1032 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 15:10:34:1034 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:10:34:1034 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 15:10:34:1034 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:10:34:1034 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:10:35:1035 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:10:35:1035 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 15:10:35:1035 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 15:10:37:1037 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:10:37:1037 [90minfo[39m: [90mUser enters invalid username and password[39m
+2024-03-14 15:10:37:1037 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:10:37:1037 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:10:37:1037 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:10:37:1037 [90minfo[39m: [90mShould show Epic sad face: Sorry, this user has been locked out[39m
+2024-03-14 15:10:37:1037 [90minfo[39m: [90mPASSED : error message displaying ....[39m
+2024-03-14 15:10:38:1038 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:10:39:1039 [90minfo[39m: [90mUser enters problem username and password[39m
+2024-03-14 15:10:39:1039 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:10:39:1039 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:10:39:1039 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:10:39:1039 [90minfo[39m: [90mThe image should not shown up[39m
+2024-03-14 15:10:39:1039 [90minfo[39m: [90mPASSED : image is not showing ....[39m
+2024-03-14 15:14:48:1448 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:14:49:1449 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 15:14:49:1449 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:14:49:1449 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:14:49:1449 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:14:49:1449 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 15:14:50:1450 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 15:14:50:1450 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 15:14:50:1450 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 15:14:50:1450 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 15:14:50:1450 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 15:14:50:1450 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 15:14:50:1450 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 15:14:50:1450 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 15:14:50:1450 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 15:14:50:1450 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 15:14:50:1450 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 15:14:52:1452 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:14:53:1453 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 15:14:53:1453 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:14:53:1453 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:14:54:1454 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:14:54:1454 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 15:14:54:1454 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 15:14:56:1456 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:14:56:1456 [90minfo[39m: [90mUser enters invalid username and password[39m
+2024-03-14 15:14:56:1456 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:14:56:1456 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:14:56:1456 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:14:56:1456 [90minfo[39m: [90mShould show Epic sad face: Sorry, this user has been locked out[39m
+2024-03-14 15:14:56:1456 [90minfo[39m: [90mPASSED : error message displaying ....[39m
+2024-03-14 15:14:58:1458 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:14:58:1458 [90minfo[39m: [90mUser enters problem username and password[39m
+2024-03-14 15:14:58:1458 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:14:58:1458 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:14:58:1458 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:14:58:1458 [90minfo[39m: [90mThe image should not shown up[39m
+2024-03-14 15:14:58:1458 [90minfo[39m: [90mPASSED : image is not showing ....[39m
+2024-03-14 15:16:54:1654 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:16:54:1654 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 15:16:54:1654 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:16:54:1654 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:16:55:1655 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:16:55:1655 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 15:16:56:1656 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 15:16:56:1656 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 15:16:56:1656 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 15:16:56:1656 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 15:16:56:1656 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 15:16:56:1656 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 15:16:56:1656 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 15:16:56:1656 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 15:16:56:1656 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 15:16:56:1656 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 15:16:56:1656 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 15:16:57:1657 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:16:58:1658 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 15:16:58:1658 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:16:58:1658 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:16:58:1658 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:16:58:1658 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 15:16:59:1659 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 15:17:00:170 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:17:00:170 [90minfo[39m: [90mUser enters invalid username and password[39m
+2024-03-14 15:17:01:171 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:17:01:171 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:17:01:171 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:17:01:171 [90minfo[39m: [90mShould show Epic sad face: Sorry, this user has been locked out[39m
+2024-03-14 15:17:01:171 [90minfo[39m: [90mPASSED : error message displaying ....[39m
+2024-03-14 15:17:02:172 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:17:02:172 [90minfo[39m: [90mUser enters problem username and password[39m
+2024-03-14 15:17:03:173 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:17:03:173 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:17:03:173 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:17:03:173 [90minfo[39m: [90mThe image should not shown up[39m
+2024-03-14 15:17:03:173 [90minfo[39m: [90mPASSED : image is not showing ....[39m
+2024-03-14 15:18:59:1859 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:19:00:190 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 15:19:00:190 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:19:00:190 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:19:00:190 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:19:00:190 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 15:19:01:191 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 15:19:01:191 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 15:19:01:191 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 15:19:01:191 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 15:19:01:191 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 15:19:01:191 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 15:19:02:192 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 15:19:02:192 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 15:19:02:192 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 15:19:02:192 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 15:19:02:192 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 15:19:03:193 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:19:04:194 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 15:19:04:194 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:19:04:194 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:19:04:194 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:19:04:194 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 15:19:05:195 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 15:19:06:196 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:19:07:197 [90minfo[39m: [90mUser enters invalid username and password[39m
+2024-03-14 15:19:07:197 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:19:07:197 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:19:07:197 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:19:07:197 [90minfo[39m: [90mShould show Epic sad face: Sorry, this user has been locked out[39m
+2024-03-14 15:19:07:197 [90minfo[39m: [90mPASSED : error message displaying ....[39m
+2024-03-14 15:19:08:198 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 15:19:08:198 [90minfo[39m: [90mUser enters problem username and password[39m
+2024-03-14 15:19:08:198 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 15:19:08:198 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 15:19:09:199 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 15:19:09:199 [90minfo[39m: [90mThe image should not shown up[39m
+2024-03-14 15:19:09:199 [90minfo[39m: [90mPASSED : image is not showing ....[39m
+2024-03-14 16:34:11:3411 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 16:34:12:3412 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 16:34:12:3412 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 16:34:12:3412 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 16:34:13:3413 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 16:34:13:3413 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 16:34:14:3414 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 16:34:14:3414 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 16:34:15:3415 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 16:34:15:3415 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 16:34:15:3415 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 16:34:15:3415 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 16:34:15:3415 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 16:34:15:3415 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 16:34:15:3415 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 16:34:15:3415 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 16:34:15:3415 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 16:34:17:3417 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 16:34:17:3417 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 16:34:17:3417 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 16:34:17:3417 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 16:34:18:3418 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 16:34:18:3418 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 16:34:19:3419 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 16:34:19:3419 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 16:34:19:3419 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 16:34:19:3419 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 16:34:19:3419 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 16:34:19:3419 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 16:34:19:3419 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 16:34:19:3419 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 16:34:19:3419 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 16:34:19:3419 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 16:34:19:3419 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 16:34:21:3421 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 16:34:21:3421 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 16:34:21:3421 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 16:34:21:3421 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 16:34:22:3422 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 16:34:22:3422 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 16:34:23:3423 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 16:34:23:3423 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 16:34:23:3423 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 16:34:23:3423 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 16:34:23:3423 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 16:34:23:3423 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 16:34:23:3423 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 16:34:23:3423 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 16:34:23:3423 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 16:34:23:3423 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 16:34:23:3423 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 16:34:27:3427 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 16:34:27:3427 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 16:34:27:3427 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 16:34:27:3427 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 16:34:28:3428 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 16:34:28:3428 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 16:34:28:3428 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 16:34:30:3430 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 16:34:30:3430 [90minfo[39m: [90mUser enters invalid username and password[39m
+2024-03-14 16:34:30:3430 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 16:34:30:3430 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 16:34:30:3430 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 16:34:30:3430 [90minfo[39m: [90mShould show Epic sad face: Sorry, this user has been locked out[39m
+2024-03-14 16:34:30:3430 [90minfo[39m: [90mPASSED : error message displaying ....[39m
+2024-03-14 16:34:32:3432 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 16:34:33:3433 [90minfo[39m: [90mUser enters problem username and password[39m
+2024-03-14 16:34:33:3433 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 16:34:33:3433 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 16:34:33:3433 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 16:34:33:3433 [90minfo[39m: [90mThe image should not shown up[39m
+2024-03-14 16:34:33:3433 [90minfo[39m: [90mPASSED : image is not showing ....[39m
+2024-03-14 18:22:09:229 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:22:10:2210 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 18:22:10:2210 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:22:10:2210 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:22:11:2211 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:22:11:2211 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 18:22:12:2212 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 18:22:12:2212 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 18:22:12:2212 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 18:22:12:2212 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 18:22:12:2212 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 18:22:12:2212 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 18:22:13:2213 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 18:22:13:2213 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 18:22:13:2213 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 18:22:13:2213 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 18:22:13:2213 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 18:22:15:2215 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:22:16:2216 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 18:22:16:2216 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:22:16:2216 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:22:17:2217 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:22:17:2217 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mUser clicks on the checkout button[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mPASSED : user clicked checkout button ....[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mUser should be redirected to the checkout page[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mPASSED : user is in checkout one page ....[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mUser fills out the first name {string} form[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mUser fills out the last name {string} form[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mUser fills out the zip {string} form[39m
+2024-03-14 18:22:18:2218 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:22:20:2220 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:22:20:2220 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 18:22:20:2220 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:22:20:2220 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:22:20:2220 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:22:20:2220 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 18:22:21:2221 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 18:22:21:2221 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mUser clicks on the checkout button[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mPASSED : user clicked checkout button ....[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mUser should be redirected to the checkout page[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mPASSED : user is in checkout one page ....[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mUser fills out the first name {string} form[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mUser fills out the last name {string} form[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mUser fills out the zip {string} form[39m
+2024-03-14 18:22:22:2222 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:22:25:2225 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:22:25:2225 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 18:22:25:2225 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:22:25:2225 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:22:25:2225 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:22:25:2225 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 18:22:26:2226 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 18:22:28:2228 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:22:29:2229 [90minfo[39m: [90mUser enters invalid username and password[39m
+2024-03-14 18:22:29:2229 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:22:29:2229 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:22:29:2229 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:22:29:2229 [90minfo[39m: [90mShould show Epic sad face: Sorry, this user has been locked out[39m
+2024-03-14 18:22:29:2229 [90minfo[39m: [90mPASSED : error message displaying ....[39m
+2024-03-14 18:22:30:2230 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:22:30:2230 [90minfo[39m: [90mUser enters problem username and password[39m
+2024-03-14 18:22:30:2230 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:22:30:2230 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:22:31:2231 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:22:31:2231 [90minfo[39m: [90mThe image should not shown up[39m
+2024-03-14 18:22:31:2231 [90minfo[39m: [90mPASSED : image is not showing ....[39m
+2024-03-14 18:26:27:2627 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:26:28:2628 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 18:26:28:2628 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:26:28:2628 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:26:28:2628 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:26:28:2628 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 18:26:29:2629 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 18:26:29:2629 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 18:26:29:2629 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 18:26:29:2629 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 18:26:30:2630 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 18:26:30:2630 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 18:26:30:2630 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 18:26:30:2630 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 18:26:30:2630 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 18:26:30:2630 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 18:26:30:2630 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 18:26:31:2631 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:26:32:2632 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 18:26:32:2632 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:26:32:2632 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:26:32:2632 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:26:32:2632 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 18:26:33:2633 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 18:26:33:2633 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 18:26:33:2633 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 18:26:33:2633 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 18:26:33:2633 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 18:26:33:2633 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 18:26:33:2633 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 18:26:33:2633 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 18:26:33:2633 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 18:26:33:2633 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 18:26:33:2633 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 18:26:33:2633 [90minfo[39m: [90mUser clicks on the checkout button[39m
+2024-03-14 18:26:34:2634 [90minfo[39m: [90mPASSED : user clicked checkout button ....[39m
+2024-03-14 18:26:34:2634 [90minfo[39m: [90mUser should be redirected to the checkout page[39m
+2024-03-14 18:26:34:2634 [90minfo[39m: [90mPASSED : user is in checkout one page ....[39m
+2024-03-14 18:26:34:2634 [90minfo[39m: [90mUser fills out the first name {string} form[39m
+2024-03-14 18:26:34:2634 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:26:34:2634 [90minfo[39m: [90mUser fills out the last name {string} form[39m
+2024-03-14 18:26:34:2634 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:26:34:2634 [90minfo[39m: [90mUser fills out the zip {string} form[39m
+2024-03-14 18:26:34:2634 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:26:35:2635 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:26:36:2636 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 18:26:36:2636 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:26:36:2636 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:26:36:2636 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:26:36:2636 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 18:26:37:2637 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 18:26:37:2637 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 18:26:37:2637 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 18:26:37:2637 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 18:26:37:2637 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 18:26:37:2637 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90mUser clicks on the checkout button[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90mPASSED : user clicked checkout button ....[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90mUser should be redirected to the checkout page[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90mPASSED : user is in checkout one page ....[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90mUser fills out the first name {string} form[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90mUser fills out the last name {string} form[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90mUser fills out the zip {string} form[39m
+2024-03-14 18:26:38:2638 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:26:41:2641 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:26:41:2641 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 18:26:41:2641 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:26:41:2641 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:26:41:2641 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:26:41:2641 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 18:26:42:2642 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 18:26:43:2643 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:26:44:2644 [90minfo[39m: [90mUser enters invalid username and password[39m
+2024-03-14 18:26:44:2644 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:26:44:2644 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:26:44:2644 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:26:44:2644 [90minfo[39m: [90mShould show Epic sad face: Sorry, this user has been locked out[39m
+2024-03-14 18:26:44:2644 [90minfo[39m: [90mPASSED : error message displaying ....[39m
+2024-03-14 18:26:45:2645 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:26:45:2645 [90minfo[39m: [90mUser enters problem username and password[39m
+2024-03-14 18:26:46:2646 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:26:46:2646 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:26:46:2646 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:26:46:2646 [90minfo[39m: [90mThe image should not shown up[39m
+2024-03-14 18:26:46:2646 [90minfo[39m: [90mPASSED : image is not showing ....[39m
+2024-03-14 18:27:23:2723 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:27:24:2724 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 18:27:24:2724 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:27:24:2724 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:27:24:2724 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:27:24:2724 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 18:27:25:2725 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 18:27:25:2725 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 18:27:25:2725 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 18:27:25:2725 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 18:27:25:2725 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 18:27:25:2725 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 18:27:25:2725 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 18:27:25:2725 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 18:27:25:2725 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 18:27:25:2725 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 18:27:25:2725 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 18:27:27:2727 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:27:27:2727 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 18:27:28:2728 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:27:28:2728 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:27:28:2728 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:27:28:2728 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mUser clicks on the checkout button[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mPASSED : user clicked checkout button ....[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mUser should be redirected to the checkout page[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mPASSED : user is in checkout one page ....[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mUser fills out the first name {string} form[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mUser fills out the last name {string} form[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mUser fills out the zip {string} form[39m
+2024-03-14 18:27:29:2729 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:27:31:2731 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:27:31:2731 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 18:27:31:2731 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:27:31:2731 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:27:31:2731 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:27:31:2731 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 18:27:32:2732 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 18:27:32:2732 [90minfo[39m: [90mUser clicks the Add to Cart button on the inventory page[39m
+2024-03-14 18:27:32:2732 [90minfo[39m: [90mPASSED : add to cart worked ....[39m
+2024-03-14 18:27:32:2732 [90minfo[39m: [90mUser should see the added product details on inventory page with the corresponding details[39m
+2024-03-14 18:27:32:2732 [90minfo[39m: [90mPASSED : item is visible after add ....[39m
+2024-03-14 18:27:32:2732 [90minfo[39m: [90mUser clicks the cart icon on the inventory page[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90mPASSED : cart icon clicked ....[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90mUser will be redirected to the cart page[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90mPASSED : user is in cart page ....[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90m'User should see the details of the previously added product[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90mPASSED : user is seeing the details ....[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90mUser clicks on the checkout button[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90mPASSED : user clicked checkout button ....[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90mUser should be redirected to the checkout page[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90mPASSED : user is in checkout one page ....[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90mUser fills out the first name {string} form[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90mUser fills out the last name {string} form[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90mUser fills out the zip {string} form[39m
+2024-03-14 18:27:33:2733 [90minfo[39m: [90mPASSED :  ....[39m
+2024-03-14 18:27:36:2736 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:27:37:2737 [90minfo[39m: [90mUser enters valid username and password[39m
+2024-03-14 18:27:37:2737 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:27:37:2737 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:27:37:2737 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:27:37:2737 [90minfo[39m: [90mSwag Labs title should displayed at the top of the page[39m
+2024-03-14 18:27:39:2739 [90minfo[39m: [90mPASSED : title displaying ....[39m
+2024-03-14 18:27:41:2741 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:27:41:2741 [90minfo[39m: [90mUser enters invalid username and password[39m
+2024-03-14 18:27:41:2741 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:27:41:2741 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:27:42:2742 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:27:42:2742 [90minfo[39m: [90mShould show Epic sad face: Sorry, this user has been locked out[39m
+2024-03-14 18:27:42:2742 [90minfo[39m: [90mPASSED : error message displaying ....[39m
+2024-03-14 18:27:43:2743 [90minfo[39m: [90mUser has opened Swag Labs on the browser[39m
+2024-03-14 18:27:45:2745 [90minfo[39m: [90mUser enters problem username and password[39m
+2024-03-14 18:27:45:2745 [90minfo[39m: [90mentered credentials[39m
+2024-03-14 18:27:45:2745 [90minfo[39m: [90mUser clicks the login button[39m
+2024-03-14 18:27:45:2745 [90minfo[39m: [90mlogin button clicked[39m
+2024-03-14 18:27:45:2745 [90minfo[39m: [90mThe image should not shown up[39m
+2024-03-14 18:27:45:2745 [90minfo[39m: [90mPASSED : image is not showing ....[39m
